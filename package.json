@@ -2,7 +2,7 @@
     "name": "gitbook-plugin-latex-codecogs",
     "description": "Display math equations using latex.codecogs.com",
     "main": "index.js",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "license": "Apache-2.0",
     "homepage": "https://github.com/GitbookIO/plugin-latex-codecogs",
     "engines": {
